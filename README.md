@@ -4,7 +4,7 @@ This application allows a user to register their name and address details, and s
 I've used springboot, hibernate, JPA, and thymeleaf for building this project. 
 
 
-# Couldn't get the validation done in time and the date has an issue with thymeleaf template conversion
+# Couldn't get the validation done on time and the date has an issue with thymeleaf template conversion
 
 Here are the links 
 for resgistering a user,
